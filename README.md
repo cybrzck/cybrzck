@@ -8,12 +8,12 @@ Always learning. Always creating. Always shipping. 🚀
 
 
 ---
+## 🌐 Socials:
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/izack_graphics/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/izackkimario) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@izack_design) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@izack_tech) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cybrzck@gmail.com) 
 
 ### 🧰 Languages and Tools
 
 <h3 align="left">💻 Tech Stack:</h3>
-
-
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
