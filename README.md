@@ -1,6 +1,6 @@
 # Hi 👋, I'm Izack Kimario
 
-**`💻 Developer | 🎨 Graphic Designer`**
+**`💻 Developer | Cyber Security Engineer`**
 
 I'm full-stack developer and creative designer shaping my own version of the digital world.
 My mission: turn ideas into interactive experiences and stories into visuals that inspire and connect.
