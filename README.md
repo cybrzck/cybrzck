@@ -1,10 +1,10 @@
 # Hi 👋, I'm Izack Kimario
 
-**`💻 Developer | Cyber Security Engineer`**
+**`Full-Stack Developer | Cybersecurity Engineer`**
 
-I'm full-stack developer and creative designer shaping my own version of the digital world.
-My mission: turn ideas into interactive experiences and stories into visuals that inspire and connect.
-Always learning. Always creating. Always shipping. 🚀
+I’m a full-stack developer and cybersecurity enthusiast passionate about building secure, modern, and meaningful digital solutions. I turn ideas into scalable web applications while focusing on security, performance, and practical problem-solving. I’m constantly learning, exploring cybersecurity, developing new technologies, and turning ideas into real-world solutions.
+
+Always learning. Always building. Always securing. Always shipping.
 
 
 ---
