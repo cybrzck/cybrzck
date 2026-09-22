@@ -43,11 +43,7 @@ I enjoy turning ideas into real-world software, exploring cybersecurity, experim
   <a href="https://tailwindcss.com/">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS"/>
   </a>
-</p>
 
-### Backend
-
-<p align="left">
   <a href="https://www.php.net/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
   </a>
@@ -63,11 +59,7 @@ I enjoy turning ideas into real-world software, exploring cybersecurity, experim
   <a href="https://www.python.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   </a>
-</p>
 
-### Databases
-
-<p align="left">
   <a href="https://www.mysql.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
   </a>
@@ -77,11 +69,7 @@ I enjoy turning ideas into real-world software, exploring cybersecurity, experim
   <a href="https://www.mongodb.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
   </a>
-</p>
 
-### DevOps & Infrastructure
-
-<p align="left">
   <a href="https://git-scm.com/">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
   </a>
@@ -126,7 +114,7 @@ I enjoy turning ideas into real-world software, exploring cybersecurity, experim
 
 ## 🌱 Currently Learning
 
-**Cybersecurity • Cloud & Infrastructure • DevSecOps • AI • System Architecture**
+**Cybersecurity • Cloud & Infrastructure • DevSecOps • System Architecture**
 
 ---
 
