@@ -112,12 +112,6 @@ I enjoy turning ideas into real-world software, exploring cybersecurity, experim
 
 ---
 
-## 🌱 Currently Learning
-
-**Cybersecurity • Cloud & Infrastructure • DevSecOps • System Architecture**
-
----
-
 ## 🌐 Portfolio
 
 **[izackdesings.tech](https://izackdesings.tech/)**
